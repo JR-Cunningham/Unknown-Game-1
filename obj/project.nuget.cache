@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6iJNpMB6xE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jr-cu\\Documents\\Important Documents\\Game\\Unknown Game 1\\PixelLegion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jr-cu\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\jr-cu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
