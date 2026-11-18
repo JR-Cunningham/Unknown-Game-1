@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PixelLegion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3b8e96588949e854466c1809a265e889f009f12")]
 [assembly: System.Reflection.AssemblyProductAttribute("PixelLegion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PixelLegion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
